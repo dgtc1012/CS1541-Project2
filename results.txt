@@ -1,0 +1,324 @@
+
+ ** opening experiment1/128KB_16B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 417771189
++ L1 miss rate: 	 0.106475
+
+ ** opening experiment1/128KB_16B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 1796567689
++ L1 miss rate: 	 0.471912
+
+ ** opening experiment1/128KB_256B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 328825689
++ L1 miss rate: 	 0.077254
+
+ ** opening experiment1/128KB_256B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 882155989
++ L1 miss rate: 	 0.218507
+
+ ** opening experiment1/128KB_4B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 648299989
++ L1 miss rate: 	 0.182210
+
+ ** opening experiment1/128KB_4B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 1773812489
++ L1 miss rate: 	 0.465606
+
+ ** opening experiment1/128KB_64B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 346357489
++ L1 miss rate: 	 0.083014
+
+ ** opening experiment1/128KB_64B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 1604504389
++ L1 miss rate: 	 0.418687
+
+ ** opening experiment1/16KB_16B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 644514089
++ L1 miss rate: 	 0.180966
+
+ ** opening experiment1/16KB_16B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 2033872289
++ L1 miss rate: 	 0.537675
+
+ ** opening experiment1/16KB_256B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 611316689
++ L1 miss rate: 	 0.170060
+
+ ** opening experiment1/16KB_256B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 968346389
++ L1 miss rate: 	 0.242393
+
+ ** opening experiment1/16KB_4B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 881870789
++ L1 miss rate: 	 0.258945
+
+ ** opening experiment1/16KB_4B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 2021779089
++ L1 miss rate: 	 0.534324
+
+ ** opening experiment1/16KB_64B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 583982689
++ L1 miss rate: 	 0.161080
+
+ ** opening experiment1/16KB_64B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 1716852789
++ L1 miss rate: 	 0.449821
+
+ ** opening experiment1/1KB_16B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 1041917989
++ L1 miss rate: 	 0.311524
+
+ ** opening experiment1/1KB_16B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 2191985189
++ L1 miss rate: 	 0.581492
+
+ ** opening experiment1/1KB_256B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 2138015989
++ L1 miss rate: 	 0.671623
+
+ ** opening experiment1/1KB_256B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 1971820489
++ L1 miss rate: 	 0.520479
+
+ ** opening experiment1/1KB_4B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 1189642889
++ L1 miss rate: 	 0.360056
+
+ ** opening experiment1/1KB_4B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 2291626189
++ L1 miss rate: 	 0.609105
+
+ ** opening experiment1/1KB_64B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 1571638689
++ L1 miss rate: 	 0.485552
+
+ ** opening experiment1/1KB_64B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 2036859389
++ L1 miss rate: 	 0.538503
+
+ ** opening experiment2/128KB_16B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 270476293
++ L1 miss rate: 	 0.106475
+
+ ** opening experiment2/128KB_16B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 1716421783
++ L1 miss rate: 	 0.471912
+
+ ** opening experiment2/128KB_256B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 212052563
++ L1 miss rate: 	 0.077254
+
+ ** opening experiment2/128KB_256B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 740119781
++ L1 miss rate: 	 0.218507
+
+ ** opening experiment2/128KB_4B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 320040321
++ L1 miss rate: 	 0.182210
+
+ ** opening experiment2/128KB_4B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 1041027171
++ L1 miss rate: 	 0.465606
+
+ ** opening experiment2/128KB_64B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 226819071
++ L1 miss rate: 	 0.083014
+
+ ** opening experiment2/128KB_64B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 1533918285
++ L1 miss rate: 	 0.418687
+
+ ** opening experiment2/16KB_16B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 1132203269
++ L1 miss rate: 	 0.180966
+
+ ** opening experiment2/16KB_16B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 423494893
++ L1 miss rate: 	 0.537934
+
+ ** opening experiment2/16KB_256B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 1026029229
++ L1 miss rate: 	 0.170060
+
+ ** opening experiment2/16KB_256B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 2091900449
++ L1 miss rate: 	 0.242393
+
+ ** opening experiment2/16KB_4B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 1547535489
++ L1 miss rate: 	 0.258945
+
+ ** opening experiment2/16KB_4B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 4024919069
++ L1 miss rate: 	 0.534324
+
+ ** opening experiment2/16KB_64B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 995968829
++ L1 miss rate: 	 0.161080
+
+ ** opening experiment2/16KB_64B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 4039962889
++ L1 miss rate: 	 0.449821
+
+ ** opening experiment2/1KB_16B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 307750301
++ L1 miss rate: 	 0.311524
+
+ ** opening experiment2/1KB_16B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 1739613333
++ L1 miss rate: 	 0.581492
+
+ ** opening experiment2/1KB_256B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 320455281
++ L1 miss rate: 	 0.671623
+
+ ** opening experiment2/1KB_256B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 805100251
++ L1 miss rate: 	 0.520479
+
+ ** opening experiment2/1KB_4B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 352176395
++ L1 miss rate: 	 0.360056
+
+ ** opening experiment2/1KB_4B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 1071817193
++ L1 miss rate: 	 0.609105
+
+ ** opening experiment2/1KB_64B.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 300148643
++ L1 miss rate: 	 0.485552
+
+ ** opening experiment2/1KB_64B.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 1559454185
++ L1 miss rate: 	 0.538503
+
+ ** opening experiment3/assoc_1.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 328134837
++ L1 miss rate: 	 0.317598
+
+ ** opening experiment3/assoc_1.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 1797132927
++ L1 miss rate: 	 0.557931
+
+ ** opening experiment3/assoc_4.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 309222325
++ L1 miss rate: 	 0.214003
+
+ ** opening experiment3/assoc_4.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 1789559121
++ L1 miss rate: 	 0.522803
+
+ ** opening experiment3/assoc_8.txt
+
+ ** opening file sample_large1.tr
++ Simulation terminates at cycle : 308149775
++ L1 miss rate: 	 0.208230
+
+ ** opening experiment3/assoc_8.txt
+
+ ** opening file sample_large2.tr
++ Simulation terminates at cycle : 1789288895
++ L1 miss rate: 	 0.521666

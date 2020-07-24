@@ -1,0 +1,4 @@
+How to run this program:
+
+make
+./CPU_cache <tracefile> <config file> <trace view on>
